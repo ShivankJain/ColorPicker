@@ -1,4 +1,6 @@
-import PropTypes from 'prop-types'
+// This File is not for Color Pickeri
+
+mport PropTypes from 'prop-types'
 
 
 

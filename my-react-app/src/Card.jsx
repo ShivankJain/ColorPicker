@@ -1,3 +1,5 @@
+// This File is not for Color Picker
+
 import zoroImage from './assets/zoroImg.png'
 
 
